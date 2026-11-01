@@ -6,8 +6,7 @@ An automated machine learning system that pulls live market prices, trains multi
 
 **[Open the Streamlit dashboard](https://multi-asset-ml-forecasting-cggtuegkr2aiha2pl5ghmj.streamlit.app/)**
 
-<!-- Add a screenshot: save it as docs/dashboard.png and uncomment the line below -->
-<!-- ![Dashboard](docs/dashboard.png) -->
+
 
 ## What it does
 
