@@ -92,4 +92,4 @@ This project is for learning and portfolio purposes only. It is not financial ad
 
 ## Author
 
-**<Your Name>** · [LinkedIn](https://linkedin.com/in/<your-profile>) · [GitHub](https://github.com/<your-username>)
+**<Taufique Hedayet>** · [LinkedIn](https://linkedin.com/in/TaufiqueHedayet) · [GitHub](https://github.com/TaufiqueHedayet)
